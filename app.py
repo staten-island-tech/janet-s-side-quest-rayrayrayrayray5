@@ -14,7 +14,6 @@ def csv_to_list(file_path):
 file_path = "SalesData.csv"  
 data = csv_to_list(file_path)
 print(data)  # Output the list
-
 enumerate(iterable, start=0)
 
 
